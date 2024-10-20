@@ -38,3 +38,4 @@ actor HesapMakinesi {
     hucre := 0;
   };
 };
+// (muhammedtekin)
